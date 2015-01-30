@@ -4,9 +4,6 @@ Git has a mutable index called stage.
 Git tracks changes of files..
 abcd
 creating a new branch is quick AND simple
-<<<<<<< HEAD
 1212
-=======
 123
-
->>>>>>> dev
+this is dev's path
