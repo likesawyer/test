@@ -1,4 +1,8 @@
 this is sawyer's pc
 funck
 this is others2
+<<<<<<< HEAD
 error,this is mac's others
+=======
+this is from PC's others
+>>>>>>> b4d2340312f2f204fd953ba123f306643106a5a3
